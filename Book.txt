@@ -1,0 +1,3 @@
+id;title;author;price
+I0001;java;patrick;560.98
+I0002;HTML;John;400.90
